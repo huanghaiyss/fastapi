@@ -30,7 +30,8 @@ A simple and mobile-friendly web application that allows users to upload a file 
 
 - Python 3.8+
 - pip
-
+- fastapi
+- uvicorn
 ### Installation
 
 1. **Clone the repository:**
