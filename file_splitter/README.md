@@ -38,3 +38,6 @@ A simple and mobile-friendly web application that allows users to upload a file 
    ```bash
    git clone https://github.com/huanghaiyss/fastapi/file_splitter.git
    cd fastapi/file_splitter
+   fastapi dev main.py
+   # or
+   # uvicorn main:app --reload
