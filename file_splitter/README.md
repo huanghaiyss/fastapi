@@ -36,5 +36,5 @@ A simple and mobile-friendly web application that allows users to upload a file 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/fastapi-file-splitter.git
-   cd fastapi-file-splitter
+   git clone https://github.com/huanghaiyss/fastapi/file_splitter.git
+   cd fastapi/file_splitter
